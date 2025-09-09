@@ -93,7 +93,8 @@ This project provides an **interactive Excel Dashboard** for analyzing **sales a
 
 ## 📷 Dashboard Preview  
 
-*(Insert dashboard screenshot here)*  
+![Dashboard Preview](ppp.png)
+ 
 
 ---
 
