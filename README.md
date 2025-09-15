@@ -1,5 +1,9 @@
 # 📊 Sales & Profit Dashboard  
 
+![Excel](https://img.shields.io/badge/Tool-Excel-%23217346?logo=microsoft-excel&logoColor=white)  
+
+Interactive dashboard built in **Excel** for analyzing sales and profit performance.  
+
 This project provides an **interactive Excel Dashboard** for analyzing **sales and profit performance** across different years, product categories, customers, and regions. It helps in making **data-driven business decisions** by providing clear visual insights.  
 
 ---
